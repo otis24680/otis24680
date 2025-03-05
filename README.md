@@ -10,4 +10,4 @@
  <img alt="business_cat" src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/terminal01/2011/2/21/11/enhanced-buzz-10470-1298306653-15.jpg">
 </picture>
 
-<p>Click here for life update --> <a href="[https://www.example.com](https://i.etsystatic.com/44616642/r/il/ab6e69/5063453436/il_570xN.5063453436_fu7w.jpg)"></a></p>
+<p>Click here for life update --> <a href="example.com"></a>check life status</p>
