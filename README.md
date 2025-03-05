@@ -10,4 +10,4 @@
  <img alt="business_cat" src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/terminal01/2011/2/21/11/enhanced-buzz-10470-1298306653-15.jpg">
 </picture>
 
-Click here for life update --> (https://shorturl.at/vTr1R)
+Click here for life update --> 😽https://shorturl.at/vTr1R😿
