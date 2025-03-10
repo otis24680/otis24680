@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @otis24680
 - 👀 I’m interested in - Computer Hardware, front-end developing, 
-- 🌱 I’m currently learning - Basic Mathematics (LMAO)
+- 🌱 I’m currently learning - SQL and backend development
 - 📫 How to reach me - contact me on email otis24680@gmail.com
 - ⚡ Fun fact - I double major in Computer Science and English at the UJEP University in Aussig
 
